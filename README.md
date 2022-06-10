@@ -25,6 +25,9 @@ It is recommended to install Jupyter Notebook via the Anaconda distribution.
 4. Go to the folder that you placed the `.ipynb` source code
 5. Run the code by clicking on Cell --> Run cells.
 
+[__View source code here__](webscraping_ranking_the_brands.ipynb).
+
+
 ## Final data sets
 
 The final data sets have been committed to this repository.
