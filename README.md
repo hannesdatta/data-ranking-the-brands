@@ -31,3 +31,4 @@ The final data sets have been committed to this repository.
 
 - [Excel file](rankingthebrands.xlsx)
 - [CSV file](rankingthebrands.csv)
+- [Excel file w/ data in tabs per year](rankingthebrands_in_tabs.xlsx)
