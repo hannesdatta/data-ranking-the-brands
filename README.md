@@ -1,7 +1,5 @@
 # Web scraper for rankingthebrands.com
 
-[](screenshot_rankingthebrands.png)
-
 ## Purpose
 
 The purpose of this Jupyter notebook is to capture data from RankingTheBrands.com's "Best Global Brands" for the years 2007 - 2022.
@@ -10,17 +8,22 @@ To collect the data, we repeatedly visit the website for RankingTheBrands, for e
 
 The data is saved as a flattened CSV file, as well as an Excel file w/ yearly data in individual tabs.
 
+![Screenshot of rankingthebrands.com](screenshot_rankingthebrands.png)
+
 ## Installation instructions
 
-(1) In the cloud Go to colab.google.com, and import this Notebook (.ipynb). Click on "Run". The output data will be stored on Google Colab.
+### Running the scraper in the cloud
+In the cloud Go to colab.google.com, and import this Notebook (.ipynb). Click on "Run". The output data will be stored on Google Colab.
 
-(2) On local computer It is best to install Jupyter Notebook via the Anaconda distribution.
+### Running the scraper locally
 
-    Go to the https://www.anaconda.com/products/distribution link and install Anaconda on your computer.
-    Place this file ([`webscraping_ranking_the_brands.ipynb`](webscraping_ranking_the_brands.ipynb) on your Desktop, or any other folder of your choice.
-    Open Anaconda Navigator, and launch Jupyter Notebook (which launches in your browser).
-    Go to the folder that you placed the webscraping_ranking_the_brands.ipynb file
-    Run the code by clicking on Cell --> Run cells.
+It is recommended to install Jupyter Notebook via the Anaconda distribution.
+
+1. Go to the https://www.anaconda.com/products/distribution link and install Anaconda on your computer.
+2. Place this file ([`webscraping_ranking_the_brands.ipynb`](webscraping_ranking_the_brands.ipynb)) on your Desktop, or any other folder of your choice.
+3. Open Anaconda Navigator, and launch Jupyter Notebook (which launches in your browser).
+4. Go to the folder that you placed the `.ipynb` source code
+5. Run the code by clicking on Cell --> Run cells.
 
 ## Final data sets
 
